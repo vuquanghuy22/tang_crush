@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Tớ có điều này muốn hỏi cậu, nhớ phải trả lời thật lòng nha :))`,
     btnIntro: 'oui',
     title: 'Cậu yêu tớ có phải không 😙',
-    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ An đó nha :>',
+    desc: 'Cậu không trả lời hoặc thoát ra, tức là cậu là vợ tớ đó nha :>',
     btnYes: 'yêu ơi là iuuu <3',
     btnNo: 'cậu bị ảo à:))',
     question: 'Nói cho tới lý do vì sao cậu yêu tớ đi <3',
